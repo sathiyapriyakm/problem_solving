@@ -1,5 +1,5 @@
 let arr = [12,3,1,2,-6,5,-8,6];
-let targetSum=100;
+let targetSum=1;
 let result=[];
 function arrange(number1,number2,number3){
     // code to arrange three numbers in ascending order 
