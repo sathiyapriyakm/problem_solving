@@ -8,11 +8,15 @@ Task2- Finding all the triplets in an array that sums up to target value.
   - copy the code from https://github.com/sathiyapriyakm/problem_solving/blob/main/task1.js into any online compiler
   - change the  value of array "arr" to any test value.
   - Run the code in compiler to get desired output.
+  - Time complexity: O(n)
+  - Space complexity : O(n)
 
  ### `Task 2`
   - copy the code from https://github.com/sathiyapriyakm/problem_solving/blob/main/task2.js into any online compiler
   - change the  value of array "arr" and variable "targetSum" to any test value.
   - Run the code in compiler to get desired output.
+  - Time complexity: O(n^2) (order of n square)
+  - Space complexity : O(n)
 
 
 
